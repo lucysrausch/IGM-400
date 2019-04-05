@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name BP)(type KiCad)(uri ${KIPRJMOD}/bpnode-bb-master/KiCAD/BP.pretty)(options "")(descr ""))
+  (lib (name IGM400)(type KiCad)(uri /home/niklas/kicad/IGM400)(options "")(descr ""))
+)

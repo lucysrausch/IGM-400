@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name bluepill)(type Legacy)(uri ${KIPRJMOD}/bpnode-bb-master/KiCAD/libraries/bluepill.lib)(options "")(descr ""))
+)
